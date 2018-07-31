@@ -1,2 +1,2 @@
-# Generate_Artistic_Fonts
-Generating PS level artistic character, which can assist designer a lot.
+'''This project build a model which will generate fonts image with specific artistic style'''# Generate-artistic-fonts
+# Generate-artistic-fonts
